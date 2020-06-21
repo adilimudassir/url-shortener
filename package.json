@@ -1,0 +1,9 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Url SHortener using NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/adilimudassir/url-shortener",
+  "author": "Mudassir Ahmad Adili <mudassiradili4u@gmail.com.",
+  "license": "MIT"
+}
